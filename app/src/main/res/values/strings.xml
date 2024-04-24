@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Expense</string>
+
+    <string name="filter">Filter</string>
+
+    <string name="add_expense">Add Expense</string>
+    <string name="edit_expense">Edit Expense</string>
+    <string name="no_data">No Data</string>
+
+    <string name="expense_date">Date:%1$s</string>
+    <string name="expense_amount">Amount:%1$s</string>
+
+    <string name="category">Category:</string>
+    <string name="date">Date:</string>
+    <string name="amount">Amount:</string>
+    <string name="sure">Sure</string>
+
+
+    <string name="hint_category">Select Category</string>
+    <string name="hint_date">Select Date</string>
+    <string name="hint_amount">Input Amount</string>
+    <string name="select_category">Select category</string>
+    <string name="fail">Add Fail</string>
+
+
+    <array name="filter_label">
+        <item>All</item>
+        <item>Date</item>
+    </array>
+
+
+</resources>
